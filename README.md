@@ -3,3 +3,6 @@ Sandbox for GitHub milestones
 
 ### YOLO Achievement
 Merged without code review.
+
+### Pair Extraordinaire Achievement
+Co-authored commit.
